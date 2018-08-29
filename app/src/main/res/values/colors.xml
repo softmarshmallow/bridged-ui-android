@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff596d</color>
+    <color name="colorPrimaryDark">#ff596d</color>
+    <color name="colorAccent">#ff596d</color>
+    <color name="tabUnselectedIconColor">#000000</color>
+
+    <color name="text_color_gray">#4a4a4a</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_red">#EE165B</color>
+    <color name="text_color">#4a4a4a</color>
+
+    <color name="gradient_light_purple">#e9c86dd7</color>
+    <color name="gradient_purple">#55006a</color>
+    <color name="gradient_light_yellow">#ffde6d</color>
+    <color name="gradient_blue">#d03023ae</color>
+    <color name="gradient_cyan">#ac238aae</color>
+    <color name="gradient_green">#d06dd7d2</color>
+    <color name="hint_foreground_material_light">#4a4a4a</color>
+    <color name="hint_foreground_material_dark">#000000</color>
+
+
+</resources>
