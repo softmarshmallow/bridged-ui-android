@@ -28,6 +28,8 @@ dependencies {
 
 //    custom
     implementation 'de.hdodenhof:circleimageview:2.2.0'
+    //round image view
+    implementation 'com.makeramen:roundedimageview:2.3.0'
 // custom
 
 
